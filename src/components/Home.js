@@ -8,7 +8,7 @@ class Home extends React.Component{
           <div>
             <h1>I'M ALEX </h1>
             <p> FrontEnd Web Developer </p>
-            <a href='https://github.com/onmygold'>MY GITHUB</a>
+            <a href='https://onmygold.github.com/'>MY GITHUB</a>
           </div>
         </div>
       </div>
